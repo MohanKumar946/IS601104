@@ -1,8 +1,9 @@
 Add your names below :
 
+
 1. Thomas Feeley
-2.Khushi Talaviya
-3.
+2.Khushi Talaviya => Resolved Merge conflict 
+3.Kenil Pravinbhai Avaiya
 4.
 5.
 6.
